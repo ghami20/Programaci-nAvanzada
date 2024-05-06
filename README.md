@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Mi proeycto</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Diagrama_de_clases.svg/380px-Diagrama_de_clases.svg.png" alt="">
+    <h1 style="color: white;">Mi proeycto</h1>
+    <img src="foto.png" alt="">
 </body>
 </html>
